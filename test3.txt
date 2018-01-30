@@ -7,3 +7,7 @@ main()
 funtion()
 {
 }
+
+funtion2()
+{
+}
