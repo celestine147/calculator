@@ -1,0 +1,13 @@
+main()
+{
+ funtion();
+}
+
+
+funtion()
+{
+}
+
+funtion2()
+{
+}
