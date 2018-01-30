@@ -1,6 +1,7 @@
 main()
 {
  funtion();
+ funtion2();
 }
 
 
